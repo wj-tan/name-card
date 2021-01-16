@@ -1,2 +1,2 @@
 # My Name Card App
-![Screenshot](sample.jpg)
+![Screenshot](sample.JPG)
