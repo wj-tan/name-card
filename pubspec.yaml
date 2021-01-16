@@ -46,6 +46,7 @@ flutter:
 
   assets:
     - images/weijian.jpg
+    - images/weijian2.jpg
 
   fonts:
     - family: PressStart2P
