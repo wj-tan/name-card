@@ -1,5 +1,5 @@
-# My Name Card App
+# My Name Card
 
-A simple name card application created with Flutter
+A simple name card android app created with Flutter
 
 ![Screenshot](sample.JPG)
